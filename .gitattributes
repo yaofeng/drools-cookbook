@@ -141,9 +141,9 @@ droolsBookParent/sampleApplication/src/main/java/droolsbook/bank/service/impl/CE
 droolsBookParent/sampleApplication/src/main/java/droolsbook/bank/service/impl/LoanApprovalServiceImpl.java -text
 droolsBookParent/sampleApplication/src/main/java/droolsbook/org/drools/persistence/JPAKnowledgeSessionLookup.java -text
 droolsBookParent/sampleApplication/src/main/java/droolsbook/org/drools/persistence/KnowledgeSessionLookup.java -text
-droolsBookParent/sampleApplication/src/main/java/droolsbook/sampleApplication/drools/persistence/JPAWSHumanTaskHandler.java -text
 droolsBookParent/sampleApplication/src/main/java/droolsbook/sampleApplication/repository/CustomerRepository.java -text
 droolsBookParent/sampleApplication/src/main/java/droolsbook/sampleApplication/repository/jpa/JPACustomerRepository.java -text
+droolsBookParent/sampleApplication/src/main/java/droolsbook/sampleApplication/server/H2DBServer.java -text
 droolsBookParent/sampleApplication/src/main/java/droolsbook/sampleApplication/server/HumanTaskServer.java -text
 droolsBookParent/sampleApplication/src/main/java/droolsbook/sampleApplication/server/MinaTaskClientFactory.java -text
 droolsBookParent/sampleApplication/src/main/java/droolsbook/sampleApplication/web/ApproveEventController.java -text
@@ -178,6 +178,7 @@ droolsBookParent/sampleApplication/src/test/java/droolsbook/sampleApplication/se
 droolsBookParent/sampleApplication/tomcatConfigFiles/conf/btm-config.properties -text
 droolsBookParent/sampleApplication/tomcatConfigFiles/conf/context.xml -text
 droolsBookParent/sampleApplication/tomcatConfigFiles/conf/server.xml -text
+droolsBookParent/sampleApplication/wtp_notes.txt -text
 droolsBookParent/src/assemble/src.xml -text
 droolsBookParent/stateful/pom.xml -text
 droolsBookParent/stateful/src/main/java/META-INF/MANIFEST.MF -text
