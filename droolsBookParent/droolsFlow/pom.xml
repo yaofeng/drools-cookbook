@@ -39,6 +39,12 @@
         <dependency>
           <groupId>org.jbpm</groupId>
           <artifactId>jbpm-human-task</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.apache.commons</groupId>
+                    <artifactId>commons-finder</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency> 
     	
     	<!-- Hibernate -->
